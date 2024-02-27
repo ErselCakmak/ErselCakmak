@@ -23,5 +23,5 @@ I'm a passionate Full-stack Developer with over 6 years of experience, specializ
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ErselCakmak" alt="Parply" />
-<a href="https://github.com/Parply/"><img src="https://img.shields.io/github/last-commit/Parply/Parply?style=flat-square?color=red&label=Last%20Updated%20"/></a>
+<a href="https://github.com/ErselCakmak/"><img src="https://img.shields.io/github/last-commit/ErselCakmak/ErselCakmak?style=flat-square?color=red&label=Last%20Updated%20"/></a>
 </p>
