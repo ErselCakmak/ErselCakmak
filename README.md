@@ -1,4 +1,4 @@
-### Hi, I'm Ersel Çakmak 👋
+### Hi, I'm Ersel ÇAKMAK <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ersel-cakmak/)](https://www.linkedin.com/in/erselcakmak/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/erselcakmak)
@@ -21,4 +21,7 @@ I'm a passionate Full-stack Developer with over 6 years of experience, specializ
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 - **Tools:** <img src="https://img.shields.io/badge/-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio" /> <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> 
 
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ErselCakmak" alt="Parply" />
+<a href="https://github.com/Parply/"><img src="https://img.shields.io/github/last-commit/Parply/Parply?style=flat-square?color=red&label=Last%20Updated%20"/></a>
+</p>
