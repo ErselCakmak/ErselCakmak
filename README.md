@@ -15,29 +15,10 @@ I'm a passionate Full-stack Developer with over 6 years of experience, specializ
 - 📊 My expertise includes efficient data management, reporting, and analysis using MySQL and MSSQL.
 
 #### Technologies & Tools
-- **Programming Languages:** .NET, Flutter, PHP, JavaScript
-- **Databases:** MySQL, MSSQL
-- **Frameworks:** .NET Framework, Flutter
-- **Tools:** Visual Studio, VS Code, Git
-
-<!--START_SECTION:colourise-->
-<p align="center">
-  <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net" />
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <br />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/-.NET_Framework-512BD4?style=for-the-badge&logo=.net" />
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter" />
-  <br />
-  <img src="https://img.shields.io/badge/-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio" />
-  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <br />
+- **Programming Languages:** <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net" /> <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter" /> <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+- **Databases:** <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/-MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+- **Frameworks:** <img src="https://img.shields.io/badge/-.NET_Framework-512BD4?style=for-the-badge&logo=.net" /> <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-<!--END_SECTION:colourise-->
+- **Tools:** <img src="https://img.shields.io/badge/-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio" /> <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> 
 
 
