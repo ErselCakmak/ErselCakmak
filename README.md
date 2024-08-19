@@ -15,8 +15,8 @@ I'm a passionate Full-stack Developer with over 6 years of experience, specializ
 
 ### Featured Projects
 
-- **[Orkay Academy](https://play.google.com/store/apps/details?id=com.orkay.academy&hl=tr)**: An education platform designed to provide a seamless learning experience through a mobile app.
-- **[Signee](https://play.google.com/store/apps/details?id=com.signee.app&hl=tr)**: A digital signature app that simplifies document signing and management on the go.
+- **[Orkay Academy](https://play.google.com/store/apps/details?id=com.orkay.academy&hl=tr)**: A mobile application developed for Orkay Mühendislik, offering users opportunities for jobs and internships, along with resources for professional growth.
+- **[Signee](https://play.google.com/store/apps/details?id=com.signee.app&hl=tr)**: A comprehensive solution for digitizing HR processes, including features such as monthly payroll management and secure document signing through mobile signatures, streamlining company workflows.
 - **CAD Application at Adeko**: Developing a WPF-based CAD application using the Eyeshot library, focusing on creating powerful design tools for users in the industry.
 
 > Note: Other projects are confidential and firm-specific.
