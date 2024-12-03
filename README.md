@@ -11,7 +11,7 @@ I'm a passionate Full-stack Developer with over 6 years of experience, specializ
 - 📱 Experienced in Flutter, I've created cross-platform mobile applications with a native feel.
 - 🌟 Committed to enhancing user experience, I've created intuitive and user-friendly interfaces.
 - 📊 My expertise includes efficient data management, reporting, and analysis using MySQL and MSSQL.
-- 🛠️ Currently developing a CAD application using the Eyeshot library in WPF for Adeko.
+- 🛠️ Currently developing a CAD application in .NET using the Eyeshot library with WPF for Adeko.
 
 ### Featured Projects
 
