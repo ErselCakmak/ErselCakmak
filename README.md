@@ -22,7 +22,7 @@ I'm a passionate Full-stack Developer with over 6 years of experience, specializ
 - **[CORE (Contract Online Reporting)](https://coreonline.net/user/)** : The CORE System is a web-based application specifically developed for Contract Group company, operating in the automotive sector. This platform serves as a hub for inputting daily inspection results, granting access to both their customers' and Contract Group's data and reports. Once inspection results are inputted into the system, the data is automatically analyzed, generating various reports. Customers can track their inspection results and performance, enabling them to take measures to enhance their processes. Similarly, Contract Group can utilize the provided data to manage daily operations, monitor efficiencies, and uphold quality standards. Developed using PHP, the CORE System is a vital tool for effectively and efficiently managing quality control processes for Contract Group company.
 - **CAD Application at Adeko**: Developing a WPF-based CAD application using the Eyeshot library, focusing on creating powerful design tools for users in the industry.
 
-> Note: Other projects are confidential and firm-specific.
+> Note: Some of my projects are confidential and firm specific and some of them are not listed here.
 
 ### Technologies & Tools
 - **Programming Languages:** <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net" /> <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter" /> <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
