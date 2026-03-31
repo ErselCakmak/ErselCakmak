@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erselcakmak/)](https://www.linkedin.com/in/erselcakmak/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/erselcakmak)
 
-I'm a passionate Full-stack Developer with over 6 years of experience, specializing in technologies like .NET, Flutter, PHP, and JavaScript. I have developed innovative solutions across various industries, focusing on both front-end and back-end technologies. My expertise lies in crafting scalable applications that solve real-world problems and improve business processes.
+I've been working as software developer since 2018, using technologies like .NET, Flutter, PHP, and JavaScript. I have developed innovative solutions across various industries, focusing on both front-end and back-end technologies. My expertise lies in crafting scalable applications that solve real-world problems and improve business processes.
 
 - 🌱 I’m currently focused on building value-driven projects with an open-minded approach to innovation.
 - 🚀 I have a strong background in developing robust and scalable web applications.
