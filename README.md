@@ -1,9 +1,8 @@
 <p align="center">
   <a href="https://erselcakmak.com" target="_blank">
-    <img src="https://erselcakmak.com/images/github-profile-banner.svg" alt="Ersel ÇAKMAK - Software Development Specialist" width="100%" />
+    <img src="https://erselcakmak.com/images/github-profile-banner.svg?v=20260623" alt="Ersel ÇAKMAK - Software Development Specialist" width="100%" />
   </a>
 </p>
-
 
 <p align="center">
   <a href="https://erselcakmak.com">Portfolio</a> ·
