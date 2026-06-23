@@ -1,41 +1,52 @@
-### Hi, I'm Ersel ÇAKMAK <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erselcakmak/)](https://www.linkedin.com/in/erselcakmak/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/erselcakmak)
-
-I've been working as software developer since 2018, using technologies like .NET, Flutter, PHP, and JavaScript. I have developed innovative solutions across various industries, focusing on both front-end and back-end technologies. My expertise lies in crafting scalable applications that solve real-world problems and improve business processes.
-
-- 🌱 I’m currently focused on building value-driven projects with an open-minded approach to innovation.
-- 🚀 I have a strong background in developing robust and scalable web applications.
-- 💻 Proficient in .NET, I have developed CRM and MES solutions that optimize business processes.
-- 📱 Experienced in Flutter, I've created cross-platform mobile applications with a native feel.
-- 🌟 Committed to enhancing user experience, I've created intuitive and user-friendly interfaces.
-- 📊 My expertise includes efficient data management, reporting, and analysis using MySQL and MSSQL.
-- 🛠️ Currently developing a CAD application in .NET using the Eyeshot library with WPF for Adeko.
-
-### Featured Projects
-
-- **[Orkay Academy](https://play.google.com/store/apps/details?id=com.orkay.academy&hl=tr)**: A mobile application developed for Orkay Mühendislik, offering users opportunities for jobs and internships, along with resources for professional growth.
-- **[Signee](https://play.google.com/store/apps/details?id=com.signee.app&hl=tr)**: A comprehensive solution for digitizing HR processes, including features such as monthly payroll management and secure document signing through mobile signatures, streamlining company workflows.
-- **[Contract Quality App](https://play.google.com/store/apps/details?id=com.contract.quality)**: The Quality Control Application, developed using Flutter, is tailored for the Contract Group company, serving major industry and supplier customers in the automotive sector. It streamlines vehicle inspections, routine part checks, and more, enabling the swift transfer of results to the online reporting panel. All results are sent instantaneously to the online reporting system, with the option for users to receive email notifications for added convenience.
-- **[Contract Plus](https://play.google.com/store/apps/details?id=com.contract.plus)** : The Contract Plus Mobile Application, developed using Flutter, is a user-friendly mobile app designed for Contract Group employees. It allows users to easily record daily check-in/check-out information and receive real-time notifications. With its intuitive interface and practical features, the app enables employees to effectively track and manage their work hours, contributing to the company's digital transformation and enhancing work efficiency.
-- **[CORE (Contract Online Reporting)](https://coreonline.net/user/)** : The CORE System is a web-based application specifically developed for the Contract Group company, operating in the automotive sector. This platform serves as a hub for inputting daily inspection results, granting both their customers and Contract Group access to data and reports. Once inspection results are input into the system, the data is automatically analyzed, generating various reports. Customers can track their inspection results and performance, enabling them to take measures to enhance their processes. Similarly, Contract Group can utilize the provided data to manage daily operations, monitor efficiency, and uphold quality standards. Developed using PHP, the CORE System is a vital tool for effectively and efficiently managing quality control processes for the Contract Group company.
-- **CAD Application at Adeko**: Developing a WPF-based CAD application using the Eyeshot library, focusing on creating powerful design tools for users in the industry.
-
-> Note: Some of my projects are confidential and firm-specific, and some of them are not listed here.
-
-### Technologies & Tools
-- **Programming Languages:** <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net" /> <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter" /> <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-- **Databases:** <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/-MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" /> 
-- **Frameworks:** <img src="https://img.shields.io/badge/-.NET_Framework-512BD4?style=for-the-badge&logo=.net" /> <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter" /> <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-- **Tools:** <img src="https://img.shields.io/badge/-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio" /> <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> 
-
-### Achievements & Contributions
-- Led the development of a large-scale MES application, optimizing manufacturing processes for several major clients.
-- Developed and deployed cross-platform mobile applications for businesses.
-- Continuously learning and applying best practices in software development.
+<p align="center">
+  <a href="https://erselcakmak.com" target="_blank">
+    <img src="https://erselcakmak.com/images/github-profile-banner.svg" alt="Ersel ÇAKMAK - Software Development Specialist" width="100%" />
+  </a>
+</p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ErselCakmak" alt="ErselCakmak" />
-<a href="https://github.com/ErselCakmak/"><img src="https://img.shields.io/github/last-commit/ErselCakmak/ErselCakmak?style=flat-square&label=Last%20Updated%20"/></a>
+  <a href="https://erselcakmak.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/erselcakmak/">LinkedIn</a>
 </p>
+
+<p align="center">
+  Software developer with professional software development experience since 2018,<br />
+  currently focused on production CAD software with .NET and WPF.
+</p>
+
+## About Me
+
+I work at **Adeko Technologies** as a **Software Development Specialist**, developing desktop CAD software with .NET, WPF, Eyeshot, and OpenCascade. Earlier in my current role, I also contributed to CRM and MES modules before moving fully into CAD development.
+
+My previous software work includes Flutter and PHP applications for automotive quality-control reporting, HR workflows, and business process digitalization.
+
+## Current Focus
+
+- Production CAD features and desktop workflows
+- Geometry and CAD tooling with Eyeshot and OpenCascade
+- Stable, usable, and maintainable software
+
+## Selected Work
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **Industrial CAD Application** | Professional desktop CAD software for industrial design workflows. Implementation details remain private. | .NET, WPF, Eyeshot, OpenCascade |
+| **[CORE - Contract Online Reporting](https://coreonline.net/user/)** | Enters, analyzes, and reports automotive quality-control inspection results. | PHP, MySQL, Reporting |
+| **Contract Quality App** | Supports vehicle inspections, routine part checks, and instant quality-control reporting. | Flutter, Dart, Mobile |
+| **Signee** | Digitizes payroll workflows and secure document signing with mobile signatures. | Flutter, HR Workflows |
+| **[Orkay Academy](https://play.google.com/store/apps/details?id=com.orkay.academy&hl=tr)** | Provides job and internship opportunities with professional-development resources. | Flutter, Mobile |
+
+## Technologies
+
+| Area | Technologies |
+| --- | --- |
+| **Desktop and CAD** | .NET, C#, WPF, Eyeshot, OpenCascade, CAD/CAM |
+| **Mobile and web** | Flutter, Dart, JavaScript, ASP.NET MVC, Web API |
+| **Data** | MSSQL, MySQL, PostgreSQL, SQL |
+| **Tools** | Git, GitHub, Visual Studio, VS Code |
+
+## Background
+
+Before transitioning into software development in **August 2018**, I worked in automotive quality-control operations from **October 2016**. That experience still shapes how I approach operational software: understand the process first, then build the tool around it.
+
+> Some of my professional work is private or company-specific.
